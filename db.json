@@ -1,0 +1,75 @@
+[
+  {
+    "descriptions": {
+      "condition": "Like new",
+      "brand": "Lenovo",
+      "details": [
+        "Type Graphics : Intel HD Graphics",
+        "Screen Size : 14",
+        "OS : Windows 8.1 Pro / Parrot Os",
+        "CPU : Intel Pentium(R) N3540 @ 2.16 GHz"
+      ]
+    },
+    "_id": "63abffc99e4488c2c2d7c0fd",
+    "name": "LAPTOP ASUS X453M (NEGO)",
+    "price": 1999,
+    "category": "computers-tech",
+    "images": [
+      "p1.jpg"
+    ]
+  },
+  {
+    "descriptions": {
+      "condition": "Like new",
+      "brand": "Doublewoot",
+      "size": "S",
+      "details": [
+        "Lorem Ipsun",
+        "Lorem Ipsun"
+      ]
+    },
+    "_id": "63abffc99e4488c2c2d7c0fe",
+    "name": "Doublewoot Dinner Dress",
+    "price": 19,
+    "category": "women-s-fashion",
+    "images": [
+      "p2.jpg",
+      "p3.jpg"
+    ]
+  },
+  {
+    "descriptions": {
+      "condition": "Brand new",
+      "brand": "iPhone",
+      "details": [
+        "Lorem Ipsun",
+        "Lorem Ipsun"
+      ]
+    },
+    "_id": "63abffc99e4488c2c2d7c0ff",
+    "name": "IPHONE 14 PRO MAX 128GB DEEP PURPLE",
+    "price": 1999,
+    "category": "mobile-phones-gadgets",
+    "images": [
+      "p4.jpg",
+      "p5.jpg"
+    ]
+  },
+  {
+    "descriptions": {
+      "condition": "Brand new",
+      "brand": "new brand",
+      "details": [
+        "dd"
+      ]
+    },
+    "_id": "63ad28b28fc0e81339c9a22c",
+    "name": "test new productrsedtyfioj",
+    "price": 111.22,
+    "category": "computers-tech",
+    "images": [
+      "1672322568691.png"
+    ],
+    "__v": 1
+  }
+]
